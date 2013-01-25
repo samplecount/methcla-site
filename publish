@@ -1,0 +1,7 @@
+#!/bin/sh
+
+rm -r _methcla/*
+rsync -av _site/ _methcla/
+cd _methcla
+git add .
+git commit
