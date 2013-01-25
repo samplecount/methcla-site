@@ -3,6 +3,8 @@ title: Methcla - Mobile audio engine
 ---
 **Methcla** is a sound synthesis engine specially designed for mobile devices. Whether you want to write a software synthesizer for the iPad, develop an artistic application for Android phones or need an interactive soundscape for your mobile game, **Methcla** is for you!
 
+<!-- Developed by [Stefan Kersten](http://twitter.com/kaoskorobase), longtime open source contributor ([SuperCollider](), [Faust]()) and one of the creators of the [PLAY](http://www.soundsonline.com/PLAY) sample engine, **Methcla** is the audio backend for our soundscape creation platform [hearhear.me](http://hearhear.me)
+ -->
 <hr>
 
 ## Light-weight and flexible
@@ -19,12 +21,8 @@ Synthesis and effect processing modules are written based on the extensible [LV2
 
 ## Built for mobile speed
 
-**Methcla** is specifically designed for mobile and tablet operating systems &mdash; initially we will support **iOS** and **Android** with more to follow. The engine is written in portable **C++** and performance critical parts are optimized using current mobile processor vector instructions.
+**Methcla** is specifically designed for mobile and tablet operating systems &mdash; initially we'll support **iOS** and **Android** with more to follow. The engine is written in portable **C++** and performance critical parts are optimized using current mobile processor vector instructions.
 
 ## Available soon ...
 
 **Methcla** is open source and will be released under a permissive license for use in commercial or non-commercial projects of any size. We are currently hacking away furiously, [follow us on Twitter](http://twitter.com/methcla) for updates!
-
-<!-- Developed by long-time open source contributor and one of the creators of the [PLAY](http://www.soundsonline.com/PLAY) sample engine, [Stefan Kersten](http://twitter.com/kaoskorobase),  -->
-
-<!-- In the meantime, you can tell us what <em>you</em> expect from a mobile audio engine by [dropping us a line](mailto:info@samplecount.com) or submitting a [feature request](https://github.com/samplecount/methcla/issues). -->
