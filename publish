@@ -1,7 +1,6 @@
-#!/bin/sh
+#!/bin/sh -x
 
-rm -r _methcla/*
-rsync -av _site/ _methcla/
-cd _methcla
-git add .
-git commit
+./site build || exit 1
+rm -rf _methcla/* || exit 1
+rsync -av _site/ _methcla/ || exit 1
+cd _methcla && git add . && git commit -v
