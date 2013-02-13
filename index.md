@@ -1,5 +1,5 @@
 ---
-title: Methcla - Mobile audio engine
+title: Methcla - Mobile sound engine
 ---
 **Methcla** is a sound synthesis engine specially designed for mobile devices. Whether you want to write a software synthesizer for the iPad, develop an artistic application for Android phones or need an interactive soundscape for your mobile game, **Methcla** is for you!
 
