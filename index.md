@@ -22,7 +22,7 @@ Synthesis and effect processing modules are written based on the extensible [LV2
 
 ## Built for mobile speed
 
-**Methcla** is specifically designed for mobile and tablet operating systems &mdash; initially we are planning to support mobile devices running iOS, Android, Windows and Linux with more to follow. The engine is written in portable **C++** and performance critical parts are optimized using current mobile processor vector instructions.
+**Methcla** is specifically designed for mobile and tablet operating systems &mdash; initially we are planning to support mobile devices running **iOS**, **Android**, **Windows** and **Linux** with more to follow. The engine is written in portable **C++** and performance critical parts are optimized using current mobile processor vector instructions.
 
 ## Available soon ...
 
